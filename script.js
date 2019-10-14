@@ -7,7 +7,7 @@ $(document).ready(function () {
         $('.geenMaat').hide().next().hide();
     });
 
-    $('.stadsfietsHeren').on('click', function () {
+    $('.StadsfietsHeren').on('click', function () {
         $('.maat43').hide().next().hide();
         $('.maat50').show().next().show();
         $('.maat57').show().next().show();
